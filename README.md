@@ -4,7 +4,7 @@
 
 - <b>Collage Project</b>
   - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
-  [- <img alt="JoshMadakor | Playsotre" width="100px" class="center" src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" />]
+  [- <img alt="JoshMadakor | Playsotre" width="100px" class="center" src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0"  href="https://play.google.com/store/games?hl=en&gl=US"/>]
 
 [Playsotre]: https://play.google.com/store/games?hl=en&gl=US
 
