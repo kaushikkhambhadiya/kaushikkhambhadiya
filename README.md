@@ -3,8 +3,7 @@
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Collage Project</b>
-  - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
-  [- <img alt="JoshMadakor | Playsotre" width="100px" class="center" src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0"  href="https://play.google.com/store/games?hl=en&gl=US"/>]
+  - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt) <a href="https://play.google.com/store/games?hl=en&gl=US"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt="Play Store" width="100px"></a>
 
 [Playsotre]: https://play.google.com/store/games?hl=en&gl=US
 
