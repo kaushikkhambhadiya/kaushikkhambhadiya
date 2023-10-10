@@ -3,7 +3,10 @@
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Collage Project</b>
-  - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
+  - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt) [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/kaushikkhambhadiya/
+
   - [MyCafe](https://github.com/kaushikkhambhadiya/MrCafe)
 
 - <b>Education Applications</b>
