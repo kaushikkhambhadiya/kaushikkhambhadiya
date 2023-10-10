@@ -3,7 +3,7 @@
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Collage Project</b>
-  - [House Hunt](https://github.com/kaushikkhambhadiya/CBSECLASS10)
+  - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
 - <b>Education Applications</b>
   - [CBSE Class 10](https://github.com/kaushikkhambhadiya/CBSECLASS10)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
