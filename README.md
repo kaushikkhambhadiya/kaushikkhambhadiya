@@ -4,8 +4,14 @@
 
 - <b>Collage Project</b>
   - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
+  - [MyCafe](https://github.com/kaushikkhambhadiya/MrCafe)
+
 - <b>Education Applications</b>
   - [CBSE Class 10](https://github.com/kaushikkhambhadiya/CBSECLASS10)
+ 
+- <b>Video Editing Applications</b>
+  - [Video Editing](https://github.com/kaushikkhambhadiya/VideoEditing)
+  - [Video Effect](https://github.com/kaushikkhambhadiya/Video_Effect)
 
 - <b>Other Projects</b>
     - [Invoice Generator](https://github.com/kaushikkhambhadiya/Invoice_Generator)
