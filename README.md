@@ -19,6 +19,7 @@
 
 
  - <b>Check my Applications on Play Store</b>
+ 
  <a href="https://play.google.com/store/apps/developer?id=Om+Education"><img src="https://lh3.googleusercontent.com/RyLoNcOmb91IxHIP9NWfC82chbsCsT-5R25efns1FmuM8xz6znE4CRjIEBosZ1FH2xG1UqH6Axyp-vPFnm4sazbrsaB-S0QT_cN9uWU9UKoSQYCjYQ=s0" alt="Play Store" width="100px"></a>
 
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
@@ -26,6 +27,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="bottom" alt="JoshMadakor | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img alt="KaushikKhambhadiya | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kaushikkhambhadiya/
