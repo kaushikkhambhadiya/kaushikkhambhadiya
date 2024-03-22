@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Android Development Projects:</h2>
 
-- <b>Kotlin Project</b>
+- <b>Kotlin Projects</b>
   - [QuizApp](https://github.com/kaushikkhambhadiya/QuizApp)
 
 
