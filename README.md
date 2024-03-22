@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Android Development Projects:</h2>
 
+- <b>Kotlin Project</b>
+  - [QuizApp](https://github.com/kaushikkhambhadiya/QuizApp)
+
+
 - <b>Collage Project</b>
   - [House Hunt](https://github.com/kaushikkhambhadiya/HouseHunt)
 
