@@ -31,11 +31,16 @@
 
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
 
- <style>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connect With Me</title>
+  <style>
     .icon {
       margin-right: 20px; /* Adjust the margin as needed */
     }
   </style>
+</head>
 
  <p>You can reach me via email or connect with me on LinkedIn:</p>
   
