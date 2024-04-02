@@ -39,5 +39,5 @@
 [linkedin]: https://www.linkedin.com/in/kaushikkhambhadiya/
 
  <a href="mailto:devkk3707@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Gmail icon" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Gmail icon" width="22px">
   </a>
