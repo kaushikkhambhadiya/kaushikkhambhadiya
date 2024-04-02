@@ -34,8 +34,10 @@
 
 <h1>Connect With Me</h1>
   <p>You can reach me via email or connect with me on LinkedIn:</p>
+  
   <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" width="22px" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn icon" width="22px" 
+      style="margin-right: 20px;">
   </a>
 
 
