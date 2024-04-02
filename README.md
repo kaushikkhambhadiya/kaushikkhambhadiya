@@ -32,9 +32,9 @@
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
 
 
-<h2> 🤳 Connect with me:</h2>
-
- <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
+<h1>Connect With Me</h1>
+  <p>You can reach me via email or connect with me on LinkedIn:</p>
+  <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" width="22px">
   </a>
 
