@@ -31,25 +31,9 @@
 
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Connect With Me</title>
-  <style>
-    .icon {
-      margin-right: 20px; /* Adjust the margin as needed */
-    }
-  </style>
-</head>
 
- <p>You can reach me via email or connect with me on LinkedIn:</p>
+ <p>You can connect with me on LinkedIn:</p>
   
   <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn icon" width="22px" 
-      class="icon"">
-  </a>
-
-
- <a href="mailto:devkk3707@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Gmail icon" width="22px" class="icon">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn icon" width="22px">
   </a>
