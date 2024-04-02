@@ -32,6 +32,8 @@
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
 
 
+ <h1>Connect With Me</h1>
+ 
  <p>You can connect with me on LinkedIn:</p>
   
   <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
