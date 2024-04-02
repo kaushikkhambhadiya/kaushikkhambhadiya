@@ -31,16 +31,11 @@
 
 [Playsotre]: https://play.google.com/store/apps/developer?id=Om+Education
 
-<style>
-    .icon {
-      margin-right: 20px; /* Adjust the margin as needed */
-    }
-  </style>
 
 <h1>Connect With Me</h1>
   <p>You can reach me via email or connect with me on LinkedIn:</p>
   <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" width="22px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" width="22px" margin-right: 20px>
   </a>
 
 
