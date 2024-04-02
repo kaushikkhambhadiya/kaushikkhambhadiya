@@ -37,3 +37,7 @@
 [<img alt="KaushikKhambhadiya | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kaushikkhambhadiya/
+
+ <a href="mailto:devkk3707@gmail.com">
+    <img src="gmail-icon.png" alt="Gmail icon" width="50" height="50">
+  </a>
