@@ -34,9 +34,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img alt="KaushikKhambhadiya | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+ <a href="https://www.linkedin.com/in/kaushikkhambhadiya/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin icon" width="22px">
+  </a>
 
-[linkedin]: https://www.linkedin.com/in/kaushikkhambhadiya/
 
  <a href="mailto:devkk3707@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Gmail icon" width="22px">
