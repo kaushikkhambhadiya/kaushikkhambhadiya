@@ -3,7 +3,7 @@
 <h2>👨‍💻 Android Development Projects:</h2>
 
 - <b>Project Managment App</b>
-  - [PROJEMANAG](https://github.com/kaushikkhambhadiya/ProjectManager)
+  - [ProjeManag](https://github.com/kaushikkhambhadiya/ProjectManager)
 
 - <b>Fun Projects</b>
   - [QuizApp](https://github.com/kaushikkhambhadiya/QuizApp)
